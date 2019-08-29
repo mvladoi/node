@@ -2,7 +2,7 @@
   "name": "project",
   "version": "1.0.0",
   "description": "",
-  "main": "meadowlark.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,8 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "express3-handlebars": "^0.5.2",
-    "node-daemon": "0.0.15",
-    "nodemon": "^1.19.1"
+    "express3-handlebars": "^0.5.2"
   }
 }
