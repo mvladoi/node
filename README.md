@@ -1,2 +1,2 @@
-# node
-A node js app 
+# node 
+Node Js Application , for learning purposes 
